@@ -3,7 +3,7 @@ const photo = document.getElementById("photo");
 const number = document.getElementById("number");
 
 const photos = [
-    "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1800&q=85",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt6bGbrV9UTswtflzLfIbOYsDv3epFkKOBT2woaEgUXw&s=10",
     "https://images.unsplash.com/photo-1495555961986-6d4c1ecb7be3?auto=format&fit=crop&w=1800&q=85",
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6HpD2ygUkNtbXibWD-4rnv_zWd9v-m22r3MYXG5FOIA&s=10"
 ];
