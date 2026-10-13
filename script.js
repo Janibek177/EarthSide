@@ -42,7 +42,7 @@ signup.addEventListener("submit", (event) => {
     }
 
     signupText.textContent =
-        "All fields completed! Real registration needs a server.";
+        "All fields completed!";
 
     signup.reset();
 });
@@ -80,7 +80,7 @@ message.addEventListener("submit", (event) => {
     }
 
     messageText.textContent =
-        "Form completed! Connect a server to send the message.";
+        "Form completed!";
 
     message.reset();
 });

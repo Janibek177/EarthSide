@@ -604,10 +604,11 @@ nav a:hover, .topLink:hover {
 }
 
 .help {
-    padding: 115px 8%;
+    padding: 120px 8%;
     display: grid;
     grid-template-columns: .8fr 1.2fr;
     gap: 10%;
+    height: 600px;
 }
 
 .help h2 {
@@ -1125,7 +1126,7 @@ input:focus, textarea:focus {
 
     .help {
         grid-template-columns: 1fr;
-        padding: 80px 6%;
+        padding: 90px 6%;
         gap: 35px;
     }
 
